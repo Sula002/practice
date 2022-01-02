@@ -1,0 +1,29 @@
+table, th, td {
+  border:1px solid black;
+}
+.image{
+  margin-left: 400px;
+}
+.intro{
+  margin: 0 ;
+  font-family: "Lucida Console", "Courier New", monospace;
+  position:sticky;
+}
+hr{
+  margin-right: 1200px;
+}
+.class{
+  background-color: white;
+  margin-right: 1250px;
+}
+.name{
+  background-color: white;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 1px;
+  margin-right: 1250px;
+}
+.e1{
+  display: inline;
+}
